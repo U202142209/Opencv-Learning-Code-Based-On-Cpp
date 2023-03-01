@@ -1,0 +1,3 @@
+﻿  opencvTest.cpp
+D:\C++\repos\opencvTest\opencvTest\opencvTest.cpp(107,24): warning C4101: “ex”: 未引用的局部变量
+  opencvTest.vcxproj -> D:\C++\repos\opencvTest\x64\Debug\opencvTest.exe
